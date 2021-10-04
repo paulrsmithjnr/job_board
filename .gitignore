@@ -2,3 +2,8 @@ __pycache__
 .env
 venv
 sql_app.db
+test_db.db
+
+.pytest_cache
+htmlcov
+.coverage
